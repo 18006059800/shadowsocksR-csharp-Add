@@ -65,3 +65,13 @@ Copyright © BreakWa11 2017. Fork from Shadowsocks by clowwindy
 [Appveyor]:       https://ci.appveyor.com/project/breakwa11/shadowsocksr-csharp
 [Build Status]:   https://ci.appveyor.com/api/projects/status/itcxnad1y95gf2x5/branch/master?svg=true
 [latest release]: https://github.com/shadowsocksr/shadowsocksr-csharp/releases
+
+
+
+
+-----------------------------------------------------------------------------------------------
+
+鄙人不才，仅修正PAC模式获取失败的问题；
+
+PAC 来源于 /ssr/ 下的PAC文件。
+
