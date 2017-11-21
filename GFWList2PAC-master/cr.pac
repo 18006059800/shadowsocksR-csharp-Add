@@ -4867,7 +4867,7 @@ var domains = {
   "1-apple.com.tw": 1
 };
 
-var proxy = "SOCKS5"; // 'PROXY' or 'SOCKS5' or 'HTTPS'
+var proxy = "PROXY"; // 'PROXY' or 'SOCKS5' or 'HTTPS'
 
 var direct = 'DIRECT;';
 
